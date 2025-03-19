@@ -1,3 +1,3 @@
-professores = []
+professores = []       
 alunos = []
 turmas = []
